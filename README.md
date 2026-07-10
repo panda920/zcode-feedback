@@ -106,6 +106,7 @@ flowchart LR
 - [SUPPORT.md](./SUPPORT.md) — Where to ask
 - [ROADMAP.md](./ROADMAP.md) — Roadmap
 - [CHANGELOG.md](./CHANGELOG.md) — Release notes
+- [MCP process-leak diagnostics](./docs/mcp-process-leak-diagnostics.md) — Privacy-preserving macOS evidence collection and mitigation
 
 ---
 
