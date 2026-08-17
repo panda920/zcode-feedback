@@ -50,7 +50,7 @@ Thanks for contributing to ZCode! This guide helps you file high-signal issues t
 ```
 你提交 → status: 待评估
        ↓
-   维护者评估（≤ 3 个工作日内首次响应）
+   维护者评估（会尽快给出首次响应）
        ↓
    ┌── 信息不足 → needs: 更多信息（等你补充）
    ├── 不采纳 → status: 已拒绝（评论说明原因，关闭）

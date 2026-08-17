@@ -40,7 +40,7 @@ jobs:
             const body = [
               '👋 感谢你的反馈，我们已经收到。',
               '',
-              '- 维护者会在 **3 个工作日内** 给出首次响应。',
+              '- 维护者看到后会尽快回复你。',
               '- 状态保持为 `status: 待评估`，你可以随时补充信息。',
               '- 信息不全时我们会打上 `needs: 更多信息` 标签并 @ 你。',
               '',
@@ -48,7 +48,7 @@ jobs:
               '',
               '👋 Thanks — we\'ve received your issue.',
               '',
-              '- A maintainer will respond within **3 business days**.',
+              '- A maintainer will get back to you as soon as we can.',
               '- Status stays at `status: 待评估` (Triage); feel free to add context.',
               '- If we need more details, we\'ll add `needs: 更多信息` and ping you.',
             ].join('\n');

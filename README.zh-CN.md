@@ -47,8 +47,8 @@ The official ZCode feedback hub for suggestions, bug reports, and transparent pr
 
 ## 🤝 我们的承诺 · Our Commitment
 
-- **首次响应 SLA**：3 个工作日内会有维护者评论你的 issue。
-  *First-response SLA: a maintainer will comment within 3 business days.*
+- **一定会有人回**：维护者会尽快在 issue 下评论跟进。
+  *You'll get a reply: a maintainer will follow up in the issue as soon as we can.*
 - **状态全程公开**：每条反馈都有明确的 `status:` 标签，可在 [看板](../../projects) 看到流转。
   *Full transparency: every issue carries a `status:` label, visible on the project board.*
 - **拒绝会说明原因**：被标为 `已拒绝` 的建议，我们会在评论里给出理由。

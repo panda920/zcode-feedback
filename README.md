@@ -45,7 +45,7 @@ Please search existing [Issues](../../issues?q=is%3Aissue) and [Discussions](../
 
 ## Our Commitment
 
-- **First-response SLA:** a maintainer will comment within 3 business days.
+- **You'll get a reply:** a maintainer will follow up in the issue as soon as we can.
 - **Transparent status:** every issue carries a `status:` label and can be tracked on the [project board](../../projects).
 - **Explained decisions:** declined suggestions receive a written reason in the issue comments.
 
